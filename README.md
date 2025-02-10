@@ -16,7 +16,7 @@ This is a personal portfolio website created with **HTML** and **CSS**. It featu
 - Easy navigation between the home and contact pages
 
 ## How to Use
-1. Open `index.html` in your web browser to view the homepage.
+1. Open https://mohamednaseer07.github.io/portfolio-simple/ in your web browser to view the homepage.
 2. Navigate to `contact.html` to access the contact form.
 
 ---
